@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\bin\x86\Debug\net7.0\AsignmentWinUI.Core.deps.json
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\bin\x86\Debug\net7.0\AsignmentWinUI.Core.dll
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\bin\x86\Debug\net7.0\AsignmentWinUI.Core.pdb
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.dll
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\refint\AsignmentWinUI.Core.dll
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\AsignmentWinUI.Core.pdb
+C:\Users\ADMIN\source\repos\AsignmentWinUI\AsignmentWinUI.Core\obj\x86\Debug\net7.0\ref\AsignmentWinUI.Core.dll
